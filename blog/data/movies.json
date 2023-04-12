@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Spider-Man: No Way Home",
+    "synopsis": "Identitas Spider-Man sekarang sudah terungkap, dan Peter meminta bantuan Doctor Strange. namun sebuah kesalahan terjadi, dan itu justru mengundang musuh berbahaya dari dunia lain, mereka mulai bermunculan. Hal itu memaksa Peter mencari apa makna sebenarnya menjadi Spider-Man.",
+    "trailerUrl": "https://www.youtube.com/embed/JfVOs4VSpmA",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+    "rating": 8,
+    "genreId": 1
+  },
+  {
+    "id": 2,
+    "title": "You are The Apple of My Eye",
+    "synopsis": "Ching-teng adalah siswa yang penuh perjuangan. Ketika kepala sekolah menempatkannya di samping Chia-yi, siswi yang cerdas dan cantik, keberuntungan dan perasaannya terhadap gadis itu pun berubah.",
+    "trailerUrl": "https://www.youtube.com/embed/v5H6wE47FrI",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMWU2OTAyMTktMTU5MC00MTNhLTg1NzAtOTZjNWFjMDRiZGUxXkEyXkFqcGdeQXVyNDY3MzUxOTI@._V1_.jpg",
+    "rating": 8,
+    "genreId": 2
+  },
+  {
+    "id": 3,
+    "title": "Three Idiots",
+    "synopsis": "Di kampus, Farhan dan Raju terlihat sangat akrab dengan Rancho. Bertahun-tahun kemudian, sebuah taruhan akhirnya memberi mereka kesempatan untuk mencari kembali teman yang telah lama hilang.",
+    "trailerUrl": "https://www.youtube.com/embed/K0eDlFX9GMc",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 7,
+    "genreId": 3
+  },
+  {
+    "id": 4,
+    "title": "John Wick",
+    "synopsis": "Saat mantan pembunuh bayaran bernama John Wick baru saja kehilangan istrinya Helen karena penyakit kronis. Sebelum meninggal, Helen memberikan hadiah terakhir untuk John berupa seekor anak anjing bernama Daisy. Ia berharap, Daisy bisa membantu sang suami mengatasi kesedihannya.",
+    "trailerUrl": "https://www.youtube.com/embed/C0BMx-qxsP4",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_.jpg",
+    "rating": 7,
+    "genreId": 1
+  },
+  {
+    "id": 5,
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "synopsis": "Semua bermula saat Doctor Strange terus mengalami mimpi aneh. Salah satunya adalah saat dirinya sedang berusaha melarikan diri dari monster di sebuah semesta yang asing. Dalam mimpinya, ia bersama dengan seorang gadis, dan terlihat melewati pijakan yang terus berpindah untuk menghindar. Sampai di ujung jalan, mereka bertemu dengan benda mirip dengan The Book of Vishanti. Ia dihadapkan pada dilema, harus mengambil buku tersebut guna mengalahkan monster, atau menyelamatkan sang gadis kecil. Ia kemudian terbangun. Mimpi aneh terus ia alami, dan berbagai sosok muncul dari mimpinya yang berbeda-beda. Semua selalu berkaitan dengan dirinya pada satu dunia yang asing dan tak dikenali, menghadapi masalah, dan terus berlari.",
+    "trailerUrl": "https://www.youtube.com/embed/aWzlQ2N6qqg",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+    "rating": 8,
+    "genreId": 1
+  },
+  {
+    "id": 6,
+    "title": "Avatar",
+    "synopsis": "Avatar adalah sebuah film fiksi ilmiah epik yang dirilis pada tahun 2009 dan disutradarai oleh James Cameron. Ceritanya berlangsung di pertengahan abad ke-22, di mana manusia telah menguras sumber daya Bumi dan kini menambang mineral berharga bernama unobtanium di sebuah bulan yang subur bernama Pandora. Spesies manusia asli Pandora, yaitu bangsa humanoid Na'vi, hidup dalam harmoni dengan lingkungan mereka",
+    "trailerUrl": "https://www.youtube.com/embed/d9MyW72ELq0",
+    "imgUrl": "https://tse4.mm.bing.net/th?id=OIP.kn3_5bSG-6REcYLvXCG4UgHaEK&pid=Api&P=0",
+    "rating": 9,
+    "genreId": 1
+  },
+  {
+    "id": 7,
+    "title": "Peaky Blinders",
+    "synopsis": "Peaky Blinders adalah serial drama televisi Inggris yang pertama kali tayang pada tahun 2013. Serial ini mengikuti kisah keluarga Shelby, sebuah kelompok geng yang berbasis di Birmingham, Inggris pada tahun 1919 Tommy Shelby (diperankan oleh Cillian Murphy) adalah pemimpin keluarga Shelby yang karismatik dan ambisius, yang memimpin kelompoknya melalui dunia kriminal yang berbahaya dengan menggunakan kecerdikan dan kekerasan. Keluarga Shelby terlibat dalam berbagai konflik dengan kelompok-kelompok kriminal lain, serta menghadapi berbagai tantangan dan intrik dalam keluarga mereka sendiri. Selain Cillian Murphy, serial ini juga dibintangi oleh aktor-aktor ternama lainnya seperti Helen McCrory, Paul Anderson, dan Joe Cole. Serial ini telah meraih banyak penghargaan dan menjadi salah satu serial drama paling sukses di Inggris.",
+    "trailerUrl": "https://www.youtube.com/embed/PxZ5gGfPtCQ",
+    "imgUrl": "https://i.guim.co.uk/img/media/b4671b518cf9f81e4343c5921a6210141fd9f8fa/0_92_4284_2570/master/4284.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=75205a6a967abc32d73fc80b7b23b52a",
+    "rating": 9,
+    "genreId": 1
+  }
+]
